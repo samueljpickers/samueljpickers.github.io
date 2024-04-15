@@ -1,7 +1,4 @@
-# This is the title
-
-Here's the table of contents:
-
+# Great Expectations
 1. TOC
 {:toc}
 
