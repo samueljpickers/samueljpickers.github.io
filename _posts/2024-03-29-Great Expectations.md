@@ -1,4 +1,4 @@
-# Great Expectations
+# Great Expectations: Establishing Motivations for the Blog
 1. TOC
 {:toc}
 
