@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Samuel Pickering's Blog
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: Thoughts and Contemplations in fast.ai, a blog by Samuel Pickering
+description: Welcome to the page! This blog collates my reflections on the fast.ai course and its learning outcomes, as part of the Assignment 2 assessment piece for UQ's ELEC4630 course.
+github_username: samueljpickers
 
 # Email and twitter are optional:
-email:
+email: samueljpickers@gmail.com
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
