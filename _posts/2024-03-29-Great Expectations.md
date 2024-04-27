@@ -18,6 +18,6 @@ In completing the modules of this course, I hope to cover the following major to
 | Stable Diffusion  | Covered in section 9.  |
 | Backpropagation  | Covered in section 13 and 14.  |
 | Autoencoders  | Covered in section 15.  |
-| Further Topics | Any other topics of interest covered in sections 10-12 and 16-25 |
+| Further Topics | Any other topics of interest covered in sections 10-12 and 16-25. |
 
 The first few topics will be covered in the coming weeks, to be included in an assessment piece for my *Computer Vision* course.
